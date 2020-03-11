@@ -3,4 +3,5 @@
     <string name="buttonString2">Button 2</string>
     <string name="buttonString">Button 1</string>
     <string name="text">0</string>
+    <string name="start_button">START</string>
 </resources>
